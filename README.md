@@ -142,7 +142,7 @@ The notebooks in this repository were developed and tested on the following syst
 - **CUDA**: Compatible with TensorFlow 2.18.0 
 - **Development Environment**: Jupyter Lab 4.2.5
 
-**Note**: The code should run on systems with lower specifications, though training times may vary. GPU acceleration is recommended for deep learning model training (PART 1) but not strictly required. Minimum recommended specifications:
+**Note**: The code should run on systems with lower specifications, though training times may vary. GPU acceleration is recommended for deep learning model training (PART 1) but not strictly required. 
 
 
 ## Publication
