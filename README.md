@@ -84,17 +84,6 @@ uv sync --dev
 
 This creates a local virtual environment (`.venv`) and installs all pinned runtime dependencies plus notebook tooling.
 
-### 3. Run Jupyter with uv
-
-```bash
-uv run jupyter lab
-```
-
-If you need a kernel for this environment:
-
-```bash
-uv run python -m ipykernel install --user --name ispsl-uv --display-name "Python (ispsl-uv)"
-```
 
 ### Dependency source of truth
 
@@ -160,27 +149,13 @@ The notebooks in this repository were developed and tested on the following syst
 
 This code is associated with the following publication:
 
----
 
-**[Placeholder for Paper Title]**
-
-*[Authors]*
-
-Published in: *[Journal Name, Year, Volume(Issue), Pages]*
-
-DOI: [DOI Link]
-
-**APA Citation:**
 ```
 [Author Last Name], [Initials]. ([Year]). [Title of the paper]. [Journal Name], [Volume]([Issue]), [Page range]. https://doi.org/[DOI]
 ```
 
 ---
 
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0, or proprietary]
-
 ## Contact
 
-For questions or collaboration inquiries, please contact [Contact Information].
+For questions or collaboration inquiries, please contact dbpourkargar@ksu.edu.
