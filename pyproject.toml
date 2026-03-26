@@ -1,0 +1,41 @@
+[project]
+name = "ispsl-integrated-ts-cv-framework"
+version = "0.1.0"
+description = "Integrated time-series modeling and computer vision framework for predictive structure characterization of extruded plant-based meat products."
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "catboost==1.2.7",
+  "darts==0.31.0",
+  "keras==3.12.0",
+  "lightgbm==4.5.0",
+  "matplotlib==3.9.2",
+  "numpy==1.26.4",
+  "opencv-python==4.10.0.84",
+  "pandas==2.2.3",
+  "pillow==10.4.0",
+  "plotly==5.24.1",
+  "pmdarima==2.0.4",
+  "scikit-image==0.25.0",
+  "scikit-learn==1.5.2",
+  "scipy==1.14.1",
+  "seaborn==0.13.2",
+  "statsmodels==0.14.4",
+  "tensorflow==2.18.0",
+  "tqdm==4.66.5",
+  "xgboost==2.1.2",
+]
+
+[dependency-groups]
+dev = [
+  "ipykernel==6.29.5",
+  "jupyter==1.1.1",
+  "jupyterlab==4.2.5",
+]
+
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false
