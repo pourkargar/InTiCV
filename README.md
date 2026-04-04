@@ -1,4 +1,5 @@
 # An Integrated Time Series Modeling and Computer Vision Framework for Predictive Structure Characterization of Extruded Plant-based Meat Products
+InTiCV: (In)tegrated (Ti)me Series Modeling and (C)omputer (V)ision
 
 ## Overview
 
