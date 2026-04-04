@@ -1,4 +1,4 @@
-# An Integrated Time Series Modeling and Computer Vision Frame-work for Predictive Structure Characterization of Extruded Plant-based Meat Products
+# An Integrated Time Series Modeling and Computer Vision Framework for Predictive Structure Characterization of Extruded Plant-based Meat Products
 
 ## Overview
 
