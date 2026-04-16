@@ -152,7 +152,7 @@ This code is associated with the following publication:
 
 
 ```
-[Author Last Name], [Initials]. ([Year]). [An integrated time series modeling and computer vision framework for predictive structure characterization of extruded plant-based meat products]. [Artificial Intelligence in Agriculture], [16]([2]), [854-872]. https://doi.org/[DOI]
+Bagheri A., Sheikhizadeh S., Alavi S., Pourkargar D.B. (2026). An integrated time series modeling and computer vision framework for predictive structure characterization of extruded plant-based meat products. Artificial Intelligence in Agriculture, 16(2), 854-872. https://doi.org/10.1016/j.aiia.2026.03.010
 ```
 
 ---
